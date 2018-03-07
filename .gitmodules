@@ -1,0 +1,6 @@
+[submodule "curves"]
+	path = curves
+	url = https://github.com/LabDin/Simple-Function-Curves.git
+[submodule "data_io"]
+	path = data_io
+	url = https://github.com/LabDin/Data-IO-JSON.git

@@ -1,4 +1,4 @@
-# Function Curves Loader
+# Simple Function Loader
 
 Load function curves data from a storage format into memory data structures
 
